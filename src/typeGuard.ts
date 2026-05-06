@@ -38,3 +38,6 @@ const getUser=(user :NormalUser|AdminUser)=>
 
 }
 getUser({name:"jst",role:"Admin"})
+ 
+
+const arr = arr1.filter(item => arr2.includes(item));
